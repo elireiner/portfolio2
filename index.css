@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+}
+
+body {
+    font-size: 19.2px;
+    background-color: #FDFFFC;
+    color: #01213b);
+}
+
+nav {
+    height: 25vh;
+}
+
+
+p {
+    margin: 0;
+    color: rgba(10, 3, 34, 0.301);
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 25vh;
+}
+
+h1 {
+    margin: 0;
+}
+
+section {
+    height: 25vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
